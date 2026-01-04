@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MOSAIC_function_board_symbols")(type "KiCad")(uri "${KIPRJMOD}/MOSAIC_function_board_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "SCD41-D-R2")(type "KiCad")(uri "C:/Users/sloan/OneDrive/Desktop/HAB-2025/HAB_Payload_2025/Footprints/SCD41-D-R2/SCD41-D-R2.kicad_sym")(options "")(descr ""))
+  (lib (name "OPA320AIDBVR")(type "KiCad")(uri "C:/Users/sloan/OneDrive/Desktop/HAB-2025/HAB_Payload_2025/Footprints/HAB_Payload_Library/OPA320AIDBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "ADS1115IDGSR")(type "KiCad")(uri "C:/Users/sloan/OneDrive/Desktop/HAB-2025/HAB_Payload_2025/Footprints/HAB_Payload_Library/ADS1115IDGSR.kicad_sym")(options "")(descr ""))
+)
